@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Museum.unity
+    guid: e1ba4ab2e741b9045ba3856118b19a7b
+  - enabled: 1
+    path: Assets/Scenes/InsideThePainture.unity
+    guid: 65434ec178fd95b42b84612536a94f55
+  m_configObjects: {}
